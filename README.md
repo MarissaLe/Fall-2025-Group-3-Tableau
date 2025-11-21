@@ -1,6 +1,10 @@
 # Fall-2025-Group-3-Project-2
 
 ## Team Name:
+1. Matthew Wise @mwise12345
+2. Ghasan Awad @awadg420
+3. Trisha Kattoju @tkattoju
+4. Marissa Le @MarissaLe
 
 # Project 2: NCHS Leading Cause of Deaths
 
@@ -17,7 +21,7 @@ This is an important question because it digs deeper into the public health ineq
 <img width="626" height="387" alt="Screenshot 2025-11-21 at 1 53 49 PM" src="https://github.com/user-attachments/assets/14cdff9c-9243-49b4-a338-f308137a78e9" />
 <img width="619" height="376" alt="Screenshot 2025-11-21 at 1 54 23 PM" src="https://github.com/user-attachments/assets/281bcfb1-fa72-4a78-bc6f-d0042c4bda63" />
 
-*ANALYSIS*: 
+*Analysis*: 
 
 *Data Manipulation*: There was no data manipulation necessary for this question. The question used the minimal and standard data preparation steps that are given to us by Tableau. The data is filtered to only use the specific years 1999, 2005, 2011, and 2017 as well as filtering Hawaii and Mississippi as the lowest and highest age-adjusted death rates states. The data was also aggregated using the SUM functions in order to compare overall death counts and age-adjusted rates across the states. 
 
