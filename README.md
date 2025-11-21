@@ -26,3 +26,4 @@ This is an important question because it digs deeper into the public health ineq
 *Data Manipulation*: There was no data manipulation necessary for this question. The question used the minimal and standard data preparation steps that are given to us by Tableau. The data is filtered to only use the specific years 1999, 2005, 2011, and 2017 as well as filtering Hawaii and Mississippi as the lowest and highest age-adjusted death rates states. The data was also aggregated using the SUM functions in order to compare overall death counts and age-adjusted rates across the states. 
 
 ## Question 2:
+
